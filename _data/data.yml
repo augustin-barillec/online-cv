@@ -67,7 +67,7 @@ experiences:
           - Contributed to Hesitation Score: a credit score based on web behavior.
           - Contributed to Revisit: an algorithm evaluating the probability that a visitor will return on a website.
           - Published on Pypi <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a>:
-            a wrapper for transferring data between BigQuery, Storage, a local directory and pandas (36k downloads).
+            a wrapper for transferring data between GCP and pandas (36k downloads).
 
 projects:
     title: Projects
