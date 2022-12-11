@@ -56,8 +56,8 @@ experiences:
           - Contributed to Profile Api Feed: a workflow feeding daily a fast 
             database with information about web visitors.
           - Refactored cleaning jobs on a Cassandra database. 
-          - Published <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a> on PyPI.
-            It is a wrapper for usual operations on a fixed BigQuery dataset.
+          - Published on PyPI <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a>:
+            a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
         time: Jan 2016 - Jan 2020
         company: Ysance, Paris
@@ -65,10 +65,9 @@ experiences:
           - Contributed to Stories: a modeling of the customer journey.
           - Contributed to Predict Sales: a sales prediction engine.
           - Contributed to Hesitation Score: a credit score based on web behavior.
-          - Contributed to Revisit: an algorithm predicting the probability that a visitor will come back to a website.
-          - Published <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a> on PyPI.
-            It is a wrapper for transferring data between BigQuery, Storage, a local directory and pandas. 
-            It has been downloaded more than 36k times.
+          - Contributed to Revisit: an algorithm evaluating the probability that a visitor will return on a website.
+          - Published on Pypi <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a>:
+            a wrapper for transferring data between BigQuery, Storage, a local directory and pandas (36k downloads).
 
 projects:
     title: Projects
