@@ -76,11 +76,14 @@ projects:
     assignments:
       - title: Fictionary
         link: https://github.com/augustin-barillec/fictionary
-        tagline: "A slack app to play fictionary (https://en.wikipedia.org/wiki/Fictionary)."
+        tagline: |
+          A slack app to play <a href="https://en.wikipedia.org/wiki/Fictionary" target="_blank">fictionary</a>.
 
       - title: Franklin
         link: https://github.com/augustin-barillec/tortue-rapide
-        tagline: "A small scale self driving car. Our team 'Tortue Rapide' won several IronCar races in 2019 (https://twitter.com/IronCarFrance)."
+        tagline: |
+          A small scale self driving car. 
+          Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance" target="_blank">IronCar</a> races in 2019.
 
 education:
     title: Education
