@@ -58,21 +58,17 @@ experiences:
         time: Jan 2020 - Present
         company: Easyence, Paris
         details: |
-          Contributed to Clusters: a data reconciliation algorithm at scale.
-          Contributed to Extended Affinity: an algorithm computing daily billions 
-          of affinities between consumers and product categories.
+          - Contributed to Clusters: a data reconciliation algorithm at scale.
+          - Contributed to Extended Affinity: an algorithm computing daily billions 
+            of affinities between consumers and product categories.
       - role: Data Scientist
         time: Jan 2016 - Jan 2020
         company: Ysance, Paris
         details: |
-          Contributed to Stories: a modeling of the customer journey.
+          - Contributed to Stories: a modeling of the customer journey.
 
 projects:
     title: Projects
-    intro: |
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Fictionary
         link: https://github.com/augustin-barillec/fictionary
@@ -84,10 +80,10 @@ projects:
         tagline: |
           A small scale self driving car. 
           Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance" target="_blank">IronCar</a> races in 2019.
-      - title: Counter-strike 1.6 server
+      - title: Counter-Strike server
         link: https://github.com/augustin-barillec/HLDS-CS1.6
         tagline: |
-          A Counter-strike server on a GCP compute engine instance. 
+          A Counter-Strike 1.6 server on a GCP compute engine instance. 
           The project <a href="https://github.com/augustin-barillec/counter-stats" target="_blank">Counter-Stats</a> feeds a GCP Looker Studio
           with detailed and fun statistics about the players on the server.
 
