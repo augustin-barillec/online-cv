@@ -69,7 +69,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -77,20 +77,26 @@ projects:
       - title: Fictionary
         link: https://github.com/augustin-barillec/fictionary
         tagline: |
-          A slack app to play <a href="https://en.wikipedia.org/wiki/Fictionary" target="_blank">fictionary</a>.
-
+          A Slack app to play <a href="https://en.wikipedia.org/wiki/Fictionary" target="_blank">fictionary</a>. 
+          Hundreds of games were played with this app on the Easyence Slack workspace.
       - title: Franklin
         link: https://github.com/augustin-barillec/tortue-rapide
         tagline: |
           A small scale self driving car. 
           Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance" target="_blank">IronCar</a> races in 2019.
+      - title: Counter-strike 1.6 server
+        link: https://github.com/augustin-barillec/HLDS-CS1.6
+        tagline: |
+          A Counter-strike server on a GCP compute engine instance. 
+          The project <a href="https://github.com/augustin-barillec/counter-stats" target="_blank">Counter-Stats</a> feeds a GCP Looker Studio
+          with detailed and fun statistics about the players on the server.
 
 education:
     title: Education
     info:
-      - degree: Agrégation de Mathématiques (36 place over 1500 applicants)
+      - degree: Agrégation, Mathematics (36 place over 1500 applicants)
         university: Université Paris Diderot
         time: 2012 - 2013
-      - degree: Élève Normalien
+      - degree: Élève Normalien, Mathematics
         university: École normale supérieure de Lyon
         time: 2009 - 2013
