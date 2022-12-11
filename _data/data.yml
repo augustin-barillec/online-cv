@@ -44,12 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Data Scientist with an advanced formation in Mathematics. Capable of 
 
 experiences:
     title: Experiences
@@ -61,11 +56,21 @@ experiences:
           - Contributed to Clusters: a data reconciliation algorithm at scale.
           - Contributed to Extended Affinity: an algorithm computing daily billions 
             of affinities between consumers and product categories.
+          - Contributed to Profile Api Feed: a workflow feeding daily a fast 
+            database with information about web visitors.
+          - Implemented a monthly cleaning job on a Cassandra database. 
+          - Published <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a> on pypi.
+            It is a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
         time: Jan 2016 - Jan 2020
         company: Ysance, Paris
         details: |
           - Contributed to Stories: a modeling of the customer journey.
+          - Contributed to Predict Sales: a sales prediction engine.
+          - Contributed to Hesitation Score: a credit score based on web behavior.
+          - Published <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a> on pypi.
+            It is a wrapper for transferring data between BigQuery, Storage, a local directory and pandas. 
+            It has been downloaded more than 36k times.
 
 projects:
     title: Projects
