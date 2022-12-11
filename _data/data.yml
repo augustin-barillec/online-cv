@@ -32,19 +32,18 @@ sidebar:
       title: Interests
       info:
         - item: Programming
-
         - item: Mathematics
-
         - item: Tennis
-
         - item: Football
-
         - item: Swimming
 
 career-profile:
     title: Career Profile
     summary: |
-      Data Scientist with an advanced formation in Mathematics. Capable of 
+      Data scientist skilled at implementing algorithms to solve business problems.
+      Capable of quickly working with a new team and learn software tools to push projects to production.
+      Strong focus on keeping projects simple, cost-effective, tested, documented, explainable and useful. 
+      Proficient in Python and SQL.
 
 experiences:
     title: Experiences
@@ -58,7 +57,7 @@ experiences:
             of affinities between consumers and product categories.
           - Contributed to Profile Api Feed: a workflow feeding daily a fast 
             database with information about web visitors.
-          - Implemented a monthly cleaning job on a Cassandra database. 
+          - Refactor cleaning jobs on a Cassandra database. 
           - Published <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a> on pypi.
             It is a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
@@ -68,6 +67,7 @@ experiences:
           - Contributed to Stories: a modeling of the customer journey.
           - Contributed to Predict Sales: a sales prediction engine.
           - Contributed to Hesitation Score: a credit score based on web behavior.
+          - Contributed to Revisit: an algorithm predicting the return of a visitor on a website.
           - Published <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a> on pypi.
             It is a wrapper for transferring data between BigQuery, Storage, a local directory and pandas. 
             It has been downloaded more than 36k times.
@@ -83,7 +83,7 @@ projects:
       - title: Franklin
         link: https://github.com/augustin-barillec/tortue-rapide
         tagline: |
-          A small scale self driving car. 
+          A small scale self driving car, using neural networks.
           Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance" target="_blank">IronCar</a> races in 2019.
       - title: Counter-Strike server
         link: https://github.com/augustin-barillec/HLDS-CS1.6
