@@ -24,7 +24,6 @@ sidebar:
       info:
         - idiom: French
           level: Native
-
         - idiom: English
           level: Professional
 
@@ -57,8 +56,8 @@ experiences:
             of affinities between consumers and product categories.
           - Contributed to Profile Api Feed: a workflow feeding daily a fast 
             database with information about web visitors.
-          - Refactor cleaning jobs on a Cassandra database. 
-          - Published <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a> on pypi.
+          - Refactored cleaning jobs on a Cassandra database. 
+          - Published <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a> on PyPI.
             It is a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
         time: Jan 2016 - Jan 2020
@@ -67,8 +66,8 @@ experiences:
           - Contributed to Stories: a modeling of the customer journey.
           - Contributed to Predict Sales: a sales prediction engine.
           - Contributed to Hesitation Score: a credit score based on web behavior.
-          - Contributed to Revisit: an algorithm predicting the return of a visitor on a website.
-          - Published <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a> on pypi.
+          - Contributed to Revisit: an algorithm predicting the probability that a visitor will come back to a website.
+          - Published <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a> on PyPI.
             It is a wrapper for transferring data between BigQuery, Storage, a local directory and pandas. 
             It has been downloaded more than 36k times.
 
