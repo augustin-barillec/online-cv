@@ -51,10 +51,10 @@ experiences:
         company: Easyence, Paris
         details: |
           - Contributed to Clusters: a data reconciliation algorithm at scale.
-          - Contributed to Extended Affinity: an algorithm computing daily billions 
-            of affinities between consumers and product categories.
-          - Contributed to Profile Api Feed: a workflow feeding daily a fast 
-            database with information about web visitors.
+          - Contributed to Extended Affinity: an algorithm computing billions 
+            of affinities daily between consumers and product categories.
+          - Contributed to Profile Api Feed: a workflow feeding a fast 
+            database daily with information about web visitors.
           - Refactored cleaning jobs on a Cassandra database. 
           - Published on PyPI <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a>:
             a wrapper for usual operations on a fixed BigQuery dataset.
@@ -86,7 +86,7 @@ projects:
         link: https://github.com/augustin-barillec/HLDS-CS1.6
         tagline: |
           A Counter-Strike 1.6 server on a GCP compute engine instance. 
-          The project <a href="https://github.com/augustin-barillec/counter-stats" target="_blank">Counter-Stats</a> feeds a GCP Looker Studio
+          The project <a href="https://github.com/augustin-barillec/counter-stats" target="_blank">Counter-Stats</a> feeds a GCP Data Studio
           with detailed and fun statistics about the players on the server.
 
 education:
