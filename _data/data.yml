@@ -56,7 +56,7 @@ experiences:
           - Contributed to Profile Api Feed: a workflow feeding a fast 
             database daily with information about web visitors.
           - Refactored cleaning jobs on a Cassandra database. 
-          - Published on PyPI <a href="https://pypi.org/project/bigquery-operator" target="_blank">bigquery-operator</a>:
+          - Published on PyPI <a href="https://pypi.org/project/bigquery-operator">bigquery-operator</a>:
             a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
         time: Jan 2016 - Jan 2020
@@ -66,7 +66,7 @@ experiences:
           - Contributed to Predict Sales: a sales prediction engine.
           - Contributed to Hesitation Score: a credit score based on web behavior.
           - Contributed to Revisit: an algorithm evaluating the probability that a visitor will return on a website.
-          - Published on Pypi <a href="https://pypi.org/project/google-pandas-load" target="_blank">google-pandas-load</a>:
+          - Published on Pypi <a href="https://pypi.org/project/google-pandas-load">google-pandas-load</a>:
             a wrapper for transferring data between GCP and pandas (36k downloads).
 
 projects:
@@ -75,18 +75,21 @@ projects:
       - title: Fictionary
         link: https://github.com/augustin-barillec/fictionary
         tagline: |
-          A Slack app to play <a href="https://en.wikipedia.org/wiki/Fictionary" target="_blank">fictionary</a>. 
-          Hundreds of games were played with this app on the Easyence Slack workspace.
+          A app for Slack to play <a href="https://en.wikipedia.org/wiki/Fictionary">fictionary</a>. 
+          Hundreds of games were played with this app on the Easyence Slack workspace. Slack has approved 
+          <a href="https://slack.com/apps/A04MWFZ1H88-fictionary?tab=more_info">Fictionary</a> for 
+          listing in the App Directory. 
+
       - title: Franklin
         link: https://github.com/augustin-barillec/tortue-rapide
         tagline: |
           A small scale self driving car, using neural networks.
-          Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance" target="_blank">IronCar</a> races in 2019.
+          Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance">IronCar</a> races in 2019.
       - title: Counter-Strike server
         link: https://github.com/augustin-barillec/HLDS-CS1.6
         tagline: |
           A Counter-Strike 1.6 server on a GCP compute engine instance. 
-          The project <a href="https://github.com/augustin-barillec/counter-stats" target="_blank">Counter-Stats</a> feeds a GCP Data Studio
+          The project <a href="https://github.com/augustin-barillec/counter-stats">Counter-Stats</a> feeds a GCP Data Studio
           with detailed and fun statistics about the players on the server.
 
 education:
