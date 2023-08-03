@@ -78,19 +78,12 @@ projects:
           A app for Slack to play <a href="https://en.wikipedia.org/wiki/Fictionary">fictionary</a>. 
           Hundreds of games were played with this app on the Easyence Slack workspace. Slack has approved 
           <a href="https://slack.com/apps/A04MWFZ1H88-fictionary?tab=more_info">Fictionary</a> for 
-          listing in the App Directory. 
-
+          listing in the App Directory.
       - title: Franklin
         link: https://github.com/augustin-barillec/tortue-rapide
         tagline: |
           A small scale self driving car, using neural networks.
           Our team "Tortue Rapide" won several <a href="https://twitter.com/IronCarFrance">IronCar</a> races in 2019.
-      - title: Counter-Strike server
-        link: https://github.com/augustin-barillec/HLDS-CS1.6
-        tagline: |
-          A Counter-Strike 1.6 server on a GCP compute engine instance. 
-          The project <a href="https://github.com/augustin-barillec/counter-stats">Counter-Stats</a> feeds a GCP Data Studio
-          with detailed and fun statistics about the players on the server.
 
 education:
     title: Education
