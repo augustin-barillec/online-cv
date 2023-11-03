@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Augustin Barillec
-    tagline: Data Scientist
+    tagline: Lead Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data scientist skilled at implementing algorithms to solve business problems.
+      Lead Data scientist skilled at implementing algorithms to solve business problems.
       Able to quickly working with a new team and learn software tools to push projects to production.
       Strong focus on keeping projects simple, cost-effective, tested, documented, explainable and useful. 
       
