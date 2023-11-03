@@ -41,21 +41,26 @@ career-profile:
       Data scientist skilled at implementing algorithms to solve business problems.
       Capable of quickly working with a new team and learn software tools to push projects to production.
       Strong focus on keeping projects simple, cost-effective, tested, documented, explainable and useful. 
-      Proficient in Python and SQL.
+      Toolset: Python, SQL, GCP, BigQuery, Storage, Airflow, Kubernetes, Jenkins, GitHub, GitLab, Cassandra, 
+      scikit-learn, pandas, Keras, Pytorch.
 
 experiences:
     title: Experiences
     info:
-      - role: Data Scientist
-        time: Jan 2020 - Present
+      - role: Lead Data Scientist
+        time: Aug 2021 - Present
         company: Easyence, Paris
         details: |
           - Contributed to Clusters: a data reconciliation algorithm at scale.
-          - Contributed to Extended Affinity: an algorithm computing billions 
-            of affinities daily between consumers and product categories.
           - Contributed to Profile Api Feed: a workflow feeding a fast 
             database daily with information about web visitors.
-          - Refactored cleaning jobs on a Cassandra database. 
+          - Refactored data processing workflows on a Cassandra database.
+      - role: Data Scientist
+        time: Jan 2020 - Aug 2021
+        company: Easyence, Paris
+        details: |
+          - Contributed to Extended Affinity: an algorithm computing billions 
+            of affinities daily between consumers and product categories.
           - Published on PyPI <a href="https://pypi.org/project/bigquery-operator">bigquery-operator</a>:
             a wrapper for usual operations on a fixed BigQuery dataset.
       - role: Data Scientist
