@@ -42,8 +42,8 @@ career-profile:
       Able to quickly working with a new team and learn software tools to push projects to production.
       Strong focus on keeping projects simple, cost-effective, tested, documented, explainable and useful. 
       
-      Toolset: Python, SQL, GCP, BigQuery, Cassandra, Cloud Functions, Cloud Run, Pub/Sub, Airflow, 
-      Cloud Composer, Docker, Kubernetes, Cloud Build, Jenkins, GitHub, GitLab, scikit-learn, pandas, Keras, 
+      Toolset: Python, SQL, Spark, Hadoop, GCP, BigQuery, Cassandra, Cloud Functions, Cloud Run, Pub/Sub, Airflow, 
+      Cloud Composer, Docker, Kubernetes, Cloud Build, Jenkins, Terraform, GitHub, GitLab, scikit-learn, pandas, Keras, 
       TensorFlow.
 
 experiences:
